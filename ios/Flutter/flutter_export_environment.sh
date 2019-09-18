@@ -1,8 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/aseemwangoo/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/aseemwangoo/Documents/Projects/flutter_contacts"
-export "FLUTTER_TARGET=/Users/aseemwangoo/Documents/Projects/flutter_contacts/lib/main.dart"
+export "FLUTTER_APPLICATION_PATH=/Users/aseemwangoo/Documents/flutter_contacts"
+export "FLUTTER_TARGET=/Users/aseemwangoo/Documents/flutter_contacts/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "FLUTTER_FRAMEWORK_DIR=/Users/aseemwangoo/flutter/bin/cache/artifacts/engine/ios"
